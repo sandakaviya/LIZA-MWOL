@@ -48,3 +48,6 @@ This project is protected by `GNU General Public Licence v3.0` license.
 
 ### my detels
 my name is bineth i am modifi this bot 
+
+### ✰my web site is
+[tach](https://bpasistan.wixsite.com/bboy)
